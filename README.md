@@ -7,6 +7,6 @@ NIÑOS RATAS ABSTENGANSE DE TOCAR ESTE SAGRADO REPOSITORIO
 
 https://img.shields.io/badge/Activo%20en%20-la%20pista-red
 
-[![Release](https://img.shields.io/badge/marico%20el%20-que%20lo%20lea-orange]() 
+[![Release](https://img.shields.io/badge/marico%20el%20-que%20lo%20lea-orange](www.lol.com) 
 
-[![Release](https://img.shields.io/badge/jaksjka-lo%20leiste%20xd-green]() 
+[![Release](https://img.shields.io/badge/jaksjka-lo%20leiste%20xd-green](www.lol.com) 
